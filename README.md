@@ -1,6 +1,7 @@
 # DAA-2324
 
-Trabalho prático realizado no âmbito da cadeira Dados e Aprendizagem Automática no ano letivo 2023/2024.
+The aim of this project is to use machine learning models, powered by Knime, to study a dataset of suicides and a clothing retailer in order to predict some key insights.
+
 
 ## Grupo
 | Número   | Nome                                                        |
