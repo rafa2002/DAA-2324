@@ -1,6 +1,6 @@
 # DAA-2324
 
-The aim of this project is to use machine learning models to study a suicide dataset. Another task was to compete in a Kaggle competition with the Fellows' class.
+The aim of this project is to use machine learning models to study a suicide dataset. Another task was to compete in a Kaggle competition with the fellows' class.
 
 
 ## Grupo
