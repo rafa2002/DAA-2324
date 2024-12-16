@@ -1,6 +1,6 @@
 # DAA-2324
 
-The aim of this project is to use machine learning models, powered by Knime, to study a dataset of suicides and a clothing retailer in order to predict some key insights.
+The aim of this project is to use machine learning models to study a suicide dataset. Another task was to compete in a Kaggle competition with the Fellows' class.
 
 
 ## Grupo
